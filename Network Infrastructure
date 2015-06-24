@@ -5,5 +5,4 @@ I enrolled in the course to learn more about network structure and I can definit
 A user/client computer connects to a network via a modem. This modem transmits the request to a switch or router operated by your ISP. The request is then sent to a DNS that converts a webaddress into an IP address. The request then travels through the network to the server with that IP address. Once the request is received by the host server, the requested information is sent back via the same channels to the user who originally requested the information. 
 
 
-
-![Network Structure](http://i.stack.imgur.com/xSM3V.png)
+![Network Structure] (http://i.stack.imgur.com/xSM3V.png)
