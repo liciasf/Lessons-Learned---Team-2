@@ -1,43 +1,47 @@
-##Trade offs of hiring locally, regionally and globally
+#**Trade offs of hiring locally, regionally and globally**
 
 One of the critical decisions to be made when hiring a software development team is the location of the programmers. 
 The optimal solution depends on the context of each project, and should be defined by analyzing each option's
 trade-offs, presented below:
 
-#**Local**
+###**Local**
 -Pros:
   - Better communication - in person interactions offer superior bandwith vs remote interactions
   - Easier to make programmers feel engaged with the project
   - No cultural barrier issues
   - Same schedule for all people involved in the project - no time zone issues
+
 -Cons:
   - Higher costs
   - Specific talent required might not be available locally
 
-#**US/Canada**
+###**US/Canada**
 -Pros:
   - May have lower costs vs local option
   - Low cultural barriers
   - Still allows for occasional in person interactions
   - Might enable access to critical talent not available locally
+
 -Cons:
   - Limited amount of in person interaction vs. local hiring
   - Cost may still be prohibitive for the project
 
-#**Regional**
+###**Regional**
 -Pros:
   - Lower costs than previous two options
   - Time zone differences are not a very critical issue
+
 -Cons:
   - Very limited or no in person interactions
   - Possible cultural barriers
   - May be harder to create engagement with project
   - Requires finding people that are comfortable with and capable of working remotely 
 
-#**Global**
+###**Global**
 -Pros:
   - Cost
   - Large pool of talent to pull from
+
 -Cons:
   - Large time zone differences
   - Possible cultural barriers
