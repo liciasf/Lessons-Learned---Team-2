@@ -13,7 +13,7 @@ The process of check-out is already built-in and you may stay flexible with your
 Shopufy not only allow you to create a decent website for your customers, it also allows you to efficiently run your business.
 It has business analytics functionality so you can make your decision based on that. It also allows you to manage incoming orders
 from you computer or mobile phone.
-More about what is covered by this platform you can learn on [their website](http://www.shopify.com/online)
+[More about what is covered by this platform you can learn on their website](http://www.shopify.com/online)
 
 
 There are also other types of platforms, like the platform to create blogs, like WordPress or Blogger. 
