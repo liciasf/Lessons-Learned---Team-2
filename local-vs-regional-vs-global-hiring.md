@@ -30,6 +30,7 @@ trade-offs, presented below:
 -Pros:
   - Lower costs than previous two options
   - Time zone differences are not a very critical issue
+  - Sharing of best practices and knowledge from different parts of the world
 
 -Cons:
   - Very limited or no in person interactions
@@ -41,12 +42,15 @@ trade-offs, presented below:
 -Pros:
   - Cost
   - Large pool of talent to pull from
+  - Time differences may allow for a lower time to market when managed efficiently ("24h shifts")
+  - Sharing of best practices and knowledge from different parts of the world
 
 -Cons:
-  - Large time zone differences
+  - Large time zone differences may make communication and interactions difficult
   - Possible cultural barriers
   - Requires finding people that are comfortable with and capable of working remotely
   - Requires additional effort to make programmers feel ownership towards the project.
 
 [Trends and challenges of global software development](http://www.ibm.com/developerworks/rational/library/edge/08/jan08/fryer_gothe/)
+[Know an hidden benefits of global software development](http://www.brian-fitzgerald.com/wp-content/uploads/2014/01/icsp08-final-draft.pdf)
 ![Reasons to off-shore software development](http://www.bsg.co.za/wp-content/uploads/2014/08/why-off-shore-.jpg)
