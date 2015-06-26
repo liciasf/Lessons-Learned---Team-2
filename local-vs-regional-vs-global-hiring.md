@@ -4,6 +4,7 @@ One of the critical decisions to be made when hiring a software development team
 The optimal solution depends on the context of each project, and should be defined by analyzing each option's
 trade-offs, presented below:
 
+
 ###**Local**
 -Pros:
   - Better communication - in person interactions offer superior bandwith vs remote interactions
@@ -14,6 +15,7 @@ trade-offs, presented below:
 -Cons:
   - Higher costs
   - Specific talent required might not be available locally
+
 
 ###**US/Canada**
 -Pros:
@@ -26,6 +28,7 @@ trade-offs, presented below:
   - Limited amount of in person interaction vs. local hiring
   - Cost may still be prohibitive for the project
 
+
 ###**Regional**
 -Pros:
   - Lower costs than previous two options
@@ -37,6 +40,7 @@ trade-offs, presented below:
   - Possible cultural barriers
   - May be harder to create engagement with project
   - Requires finding people that are comfortable with and capable of working remotely 
+
 
 ###**Global**
 -Pros:
@@ -51,6 +55,8 @@ trade-offs, presented below:
   - Requires finding people that are comfortable with and capable of working remotely
   - Requires additional effort to make programmers feel ownership towards the project.
 
+
 [Trends and challenges of global software development](http://www.ibm.com/developerworks/rational/library/edge/08/jan08/fryer_gothe/)
-[Know an hidden benefits of global software development](http://www.brian-fitzgerald.com/wp-content/uploads/2014/01/icsp08-final-draft.pdf)
+
+[Know and hidden benefits of global software development](http://www.brian-fitzgerald.com/wp-content/uploads/2014/01/icsp08-final-draft.pdf)
 ![Reasons to off-shore software development](http://www.bsg.co.za/wp-content/uploads/2014/08/why-off-shore-.jpg)
