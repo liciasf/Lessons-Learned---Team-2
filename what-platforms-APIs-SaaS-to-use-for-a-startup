@@ -1,4 +1,4 @@
-#**Platforms, APIs and Third-party services (SaaS, Cloud hosting)**
+# **Platforms, APIs and Third-party services (SaaS, Cloud hosting)**
 
 There's been a nice overview of the familied of elements of the software world that can be used 
 when one is building a new company relying on the IT.
@@ -16,11 +16,11 @@ from you computer or mobile phone.
 More about what is covered by this platform you can learn on [their website](http://www.shopify.com/online)
 
 
-There are also other types of platforms out there, like the platform to create a blog or content-based website, like WordPress or Blogger. 
-Valuable platform I learnt about were the PhoneGap and Titanium. There is a powerful trend with consumers switching to
-mobile devices from computers and it's important to be able to build an app or a mobile friendly website.
-PhoneGap allows you to quickly build a decent looking app based on the website you have. It's a great solution for
-prototyping and testing your mobile ideas before commiting to building a native app. Titanium is more advanced than PhoneGap
+There are also other types of platforms, like the platform to create blogs, like WordPress or Blogger. 
+Valuable platform I learnt about were the PhoneGap and Titanium. Because consumers are switching to
+mobile devices it's important to be able to build an app or a mobile friendly website.
+PhoneGap allows you to quickly build a decent  app based on the website you have. It's a great solution for
+prototyping and testing before commiting to building a native app. Titanium is more advanced
 and allows you to workf multiplatform (iOS, android) and write code on Java or C# to build a native-looking app.
 
 
